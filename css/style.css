@@ -1,0 +1,14 @@
+/*** Frontend styles ***/
+.links2p-wrapp{width:100%;padding: 10px 0;}
+.links2p-hdr{}
+.link2p-body{}
+button.link2p-btn{color:#999!important;background:#fdfdfd!important;display:block;margin:10px auto;width:100%;}
+button.link2p-btn:hover{background:#444!important;color:#eee!important;}
+span.link2p-price{padding-left:10px;font-size:1.5em;line-height:1em;color:gray;}
+.links2p-ftr{}
+
+/* modal popup */
+.link2p-modal {width:100%;height:100%;display:none;position:fixed;top:0px;left:0px;background:rgba(0,0,0,0.75);z-index: 9998;}
+.link2p-popup {position: absolute;top: 0;left: 50%;-webkit-transform:translate(-50%, 0);transform: translate(-50%, 0);display:none;max-width:700px;padding:2.5em;border:6px solid #444;background:#eee;z-index: 9999;}
+.link2p-btn-close {position: absolute; top: 0; right: 0.5em; font-size: 2em;cursor: pointer;transition:ease 0.25s all;}
+.link2p-btn-close:hover {-webkit-transform:translate(0, 0.1em) rotate(180deg);transform:translate(0, 0.1em) rotate(180deg);color:red;}

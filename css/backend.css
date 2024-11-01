@@ -1,0 +1,19 @@
+.options_group input::placeholder{color:#ddd!important;}
+div#wclinks2p_alert {margin: 20px 0;font-variant: small-caps;font-size: 0.8em!important;text-align: center;}
+td .wclinks2p_replica{padding-bottom:20px;}
+td label {font-size:inherit!important;}
+p.wclinks2p_title {font-size: 1.2em!important;text-align: center;border-bottom: 1px dashed #efefef;}
+div.wclinks2p_group button {width: 44%;background: none;box-shadow: none!important;border: 1px dashed #cdcdcd;cursor: pointer;}
+div.wclinks2p_group button:hover {background:#222;color:white;}
+div.wclinks2p_group button:active, div.wclinks2p_group button:focus {outline: none!important;}
+button.new_wclinks2p {margin-left:4%;float: left;}
+td button.new_wclinks2p {width:100%;margin:10px auto 0;background:#ececec;}
+button.retail_wclinks2p {margin-right:4%;float: right;}
+.wclinks2p_clone{padding: 10px 0; background-color: #fbfbfb;}
+td .wclinks2p_clone:first-of-type{border-top:1px dashed #cdcdcd;}
+td .wclinks2p_clone{padding: 20px 0; background-color: #ededed;border-bottom:1px dashed #cdcdcd;}
+.wclinks2p_clone:nth-child(odd) {background-color: #f6f6f6;}
+td .wclinks2p_clone:nth-child(odd) {background-color: #ededed;}
+.wclinks2p_killer{float:right;font-size:2em;margin-top:-20px;margin-right:10px;cursor:pointer;}
+/*td .wclinks2p_killer{font-size:2.4em!important;margin-top:-30px}*/
+.wclinks2p_killer:hover{color:red!important;}
